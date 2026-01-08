@@ -1,0 +1,9 @@
+{
+  "name": "splasob",
+  "version": "1.0.0",
+  "description": "A fun mobile-friendly game built with HTML, CSS, JS",
+  "main": "game.js",
+  "scripts": {},
+  "author": "Shivam Prasad Raut",
+  "license": "CUSTOM"
+}
